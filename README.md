@@ -1,4 +1,4 @@
-## This is a prototyping website of IUTPS
+## This is a demo website of IUTPS
 
 ### Usage
 
